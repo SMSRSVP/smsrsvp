@@ -12,6 +12,9 @@ https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-an-ub
 https://github.com/creationix/nvm
 added "nvm use 5.0" to very end of "~/.bashrc"
 
+Installed twilio-node
+npm install -g twilio
+
 http://stackoverflow.com/questions/14556426/how-can-i-respond-to-incoming-twilio-calls-and-sms-messages-using-node-js
 
 
