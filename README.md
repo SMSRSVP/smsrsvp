@@ -21,8 +21,16 @@ npm install express --save
 Installed nginx
 apt-get install nginx
 
+// node express
+http://stackoverflow.com/questions/4075287/node-express-eaddrinuse-address-already-in-use-kill-server
 
+// 
+http://eladnava.com/binding-nodejs-port-80-using-nginx/
 
-http://stackoverflow.com/questions/14556426/how-can-i-respond-to-incoming-twilio-calls-and-sms-messages-using-node-js
+//
+http://stackoverflow.com/questions/12701259/how-to-make-a-node-js-application-run-permanently
 
+http://serverfault.com/questions/379445/linode-and-namecheap-configuration
+
+https://www.namecheap.com/support/knowledgebase/article.aspx/1162/10/how-can-i-point-my-domain-name-to-my-home-servers-ip
 
