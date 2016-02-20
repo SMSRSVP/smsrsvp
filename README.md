@@ -1,5 +1,6 @@
 
 # Twilio
+https://www.twilio.com/docs/quickstart/python/sms/hello-monkey
 
 # Linode
 - installed python flask app running on ubuntu
@@ -7,4 +8,4 @@
 - 
 
 old firebase
-https://smsrsvp.firebaseio.com/messages
+http://69.164.213.28/
