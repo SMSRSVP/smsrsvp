@@ -15,6 +15,14 @@ added "nvm use 5.0" to very end of "~/.bashrc"
 Installed twilio-node
 npm install -g twilio
 
+Installed express
+npm install express --save
+
+Installed nginx
+apt-get install nginx
+
+
+
 http://stackoverflow.com/questions/14556426/how-can-i-respond-to-incoming-twilio-calls-and-sms-messages-using-node-js
 
 
